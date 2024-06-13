@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 68, 99);
+}
+#btnSim, #btnNao {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 20px;
+    background-color: rgb(255, 68, 99);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#btnSim:hover, #btnNao:hover {
+    background-color: lightpink;
+}
+#btnNao:hover{
+    cursor:not-allowed;
+
+}
+#imagem{
+    cursor: grab;
+    display: block;
+    margin: 20px auto;
+}
