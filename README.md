@@ -3,7 +3,7 @@
 ![site-preview](https://github.com/kyso1/siteNamoro/assets/128049220/15ebe4ac-af5c-4886-8482-44d2c947e3f6)
 
 
-A simple dating website built with HTML, CSS, and JavaScript.
+A simple dating website for shy people built with HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
@@ -22,8 +22,8 @@ Check out the live site [here](https://quernamorarcomigo-kysos-projects.vercel.a
 
 ## Features
 
-- cute cats
-- english version (soon..)
+- Cute cats
+- English version (soon..)
 
 ## Technologies
 
@@ -45,7 +45,7 @@ Check out the live site [here](https://quernamorarcomigo-kysos-projects.vercel.a
 
 ## Usage
 
-- send this to that girl and wait for her response..
+- Send this to that girl and wait for her response..
 
 ## Contributing
 
