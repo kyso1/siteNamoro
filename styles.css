@@ -50,3 +50,51 @@ body {
         transform: translateY(100vh);
     }
 }
+#hearts-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.heart {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    transform: rotate(-45deg);
+    opacity: 0.7;
+    animation: fall-hearts linear infinite;
+}
+
+.heart::before,
+.heart::after {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.heart::before {
+    top: -10px;
+    left: 0;
+}
+
+.heart::after {
+    top: 0;
+    left: 10px;
+}
+
+@keyframes fall-hearts {
+    from {
+        transform: translateY(-100vh) rotate(-45deg);
+    }
+    to {
+        transform: translateY(100vh) rotate(-45deg);
+    }
+}
