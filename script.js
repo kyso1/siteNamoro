@@ -20,6 +20,7 @@ function sim() {
   if(header.textContent == "Quer namorar comigo? 😍"){
       header.textContent = "VAI ME TRAIR? 👿😡";
       img.src = "assets/gatobravo.png";
+      img.style.width = "400px";  
       btnSim.style.position = 'absolute';
       btnSim.style.top = BtnSimPosition.top;
       btnSim.style.left = BtnSimPosition.left;
@@ -31,6 +32,7 @@ function sim() {
   }else if(header.textContent == "VAI ME TRAIR? 👿😡" ){
       header.textContent = "Vai me mandar o peito? 🥺";
       img.src = "assets/gatinho2.png";
+      img.style.width = "300px";  
       btnSim.style.position = 'absolute';
       btnSim.style.top = BtnSimPosition.top;
       btnSim.style.left = BtnSimPosition.left;
@@ -43,6 +45,7 @@ function sim() {
   else if(header.textContent == "Vai me mandar o peito? 🥺"){
     header.textContent = "E a bunda? 😁";
     img.src = "assets/gato4.gif";
+    img.style.width = "400px";  
     btnSim.style.position = 'absolute';
     btnSim.style.top = BtnSimPosition.top;
     btnSim.style.left = BtnSimPosition.left;
@@ -51,6 +54,7 @@ function sim() {
     btnNao.style.left = BtnNaoPosition.left;
   }else if(header.textContent == "E a bunda? 😁"){
       img.src = "assets/gatinho3.gif";
+      img.style.width = "400px";     
       header.textContent = "Eba amor vamos namorar! 😎🥰";
       btnNao.style.display = "none";
       btnSim.style.display = "none";
