@@ -1,6 +1,7 @@
 # siteNamoro
 
-[![Site Preview](assets/site-preview.png](https://quernamorarcomigo-kysos-projects.vercel.app))
+[![Site Preview]![site-preview](https://github.com/kyso1/siteNamoro/assets/128049220/15ebe4ac-af5c-4886-8482-44d2c947e3f6)
+
 
 A simple dating website built with HTML, CSS, and JavaScript.
 
