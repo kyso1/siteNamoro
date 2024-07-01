@@ -22,10 +22,8 @@ Check out the live site [here](https://quernamorarcomigo-kysos-projects.vercel.a
 
 ## Features
 
-- User registration and login
-- Profile creation and editing
-- Search for other users
-- Send messages
+- cute cats
+- english version (soon..)
 
 ## Technologies
 
