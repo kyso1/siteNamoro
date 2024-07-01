@@ -17,7 +17,8 @@ A simple dating website built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live site [here]((https://quernamorarcomigo-kysos-projects.vercel.app)).
+Check out the live site [here](https://quernamorarcomigo-kysos-projects.vercel.app).
+
 
 ## Features
 
